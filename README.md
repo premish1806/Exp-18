@@ -104,6 +104,8 @@ int main()
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/3e9a0b62-3d07-4855-9844-7bd082fa5a70)
+
 
 ## Conclusion:
 In this program, a stack is implemented using a fixed-size array. Operations such as push, pop, peak, and display are successfully performed. The program handles overflow and underflow conditions, displaying appropriate error messages when the stack is full or empty. This program demonstrates the essential working of the stack data structure.
